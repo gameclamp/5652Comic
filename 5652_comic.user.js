@@ -5,8 +5,8 @@
 // @include      http://mh.5652.com/mh/*/index.shtml
 // @description  5652多图脚本。
 // @icon         http://mh.5652.com/favicon.ico
-// @version      1.1
-// @updateURL    https://userscripts.org/scripts/source/431920.meta.js
+// @version      1.2
+// @updateURL    https://github.com/gameclamp/5652-Comic/raw/master/5652_comic.user.js
 // @grant        none
 // ==/UserScript==
 var t=0;
