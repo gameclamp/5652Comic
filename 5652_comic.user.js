@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         5652 Comic
 // @author       9尾雪狐
-// @namespace    http://userscripts.org/scripts/show/431920
+// @namespace    https://github.com/gameclamp/5652Comic
 // @include      http://mh.5652.com/mh/*/index.shtml
 // @description  5652多图脚本。
 // @icon         http://mh.5652.com/favicon.ico
